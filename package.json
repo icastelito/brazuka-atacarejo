@@ -12,5 +12,9 @@
     "react-dom": "18.2.0",
     "styled-components": "^5.3.6",
     "truncate-html": "^0.0.1"
+  },
+  "devDependencies": {
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.5"
   }
 }
